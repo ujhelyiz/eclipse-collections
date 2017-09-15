@@ -572,6 +572,7 @@
                 <module>performance-tests</module>
                 <module>jmh-scala-tests</module>
                 <module>jmh-tests</module>
+                <module>p2-repository</module>
             </modules>
         </profile>
 
