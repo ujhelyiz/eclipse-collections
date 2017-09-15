@@ -11,6 +11,7 @@
 
   <artifactId>org.eclipse.collections</artifactId>
   <packaging>eclipse-bundle-recipe</packaging>
+  <version>7.1.1</version>
 
   <name>Eclipse Collections OSGi Bundle</name>
 
